@@ -1,0 +1,2018 @@
+canonical_identifier: bkk:krp/KR6v0542/GA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0542/GA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 厦門南普陀寺志
+  identifiers:
+    krp: KR6v0542
+    cbeta: GA058n0063
+    cbeta_old_id: GA058n0063
+    authorityid: CA0008682
+    json_key: GA0063
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA058/GA058n0063.xml
+    old_id: GA058n0063
+  edition:
+    short: GA
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0542_001-GA.yaml, hash: 'sha256:244d9d9f53d94fc9437367a99c7dd30488866eb16069989833c581faa81a0efe'}
+  - {seq: 2, filename: KR6v0542_002-GA.yaml, hash: 'sha256:ec88232534c16c5eb2b793e22685173f28e1c6e80c0fa76ae62e083f6c4d1734'}
+  - {seq: 3, filename: KR6v0542_003-GA.yaml, hash: 'sha256:e595d19881da99e2ca488939e685227b7897344044b9d0d4d4617624a50eb588'}
+  - {seq: 4, filename: KR6v0542_004-GA.yaml, hash: 'sha256:6fda4351a094fc63c8c2585ac4c9f08f888262c3b6d3e5da4e982cfe56b47ba0'}
+  - {seq: 5, filename: KR6v0542_005-GA.yaml, hash: 'sha256:c9ce8c6f7185bf727a3015e259bd3a62508e9eee3ed790fda11654abf8d4471b'}
+  - {seq: 6, filename: KR6v0542_006-GA.yaml, hash: 'sha256:e4c83c912a2cae03fc48f2b9ead8d27d72ef3083c7ca62443ee78dbfdc7b5d15'}
+  - {seq: 7, filename: KR6v0542_007-GA.yaml, hash: 'sha256:2ded7b1139074d8f5588df41f9f1645d4f85bd1f48e8629d5e285a063bb2e04a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0542_001-GA.markers.yaml, hash: 'sha256:72a0b09650656ed014a89f835c49050647733928a87bba77263d499f49a14b3c'}
+  - {seq: 2, role: markers, filename: assets/KR6v0542_002-GA.markers.yaml, hash: 'sha256:fa930faed0b3f66c620db4197d3752f128a66d0bc45dd62137d2c532ecb7bb07'}
+  - {seq: 3, role: markers, filename: assets/KR6v0542_003-GA.markers.yaml, hash: 'sha256:c9296fe8f375144fb8794d359811fd4ecc2ece04caf6c06a05995c11f2f6f1d1'}
+  - {seq: 4, role: markers, filename: assets/KR6v0542_004-GA.markers.yaml, hash: 'sha256:502826b709e1efd84f5f215b7456f7d21b467488acd69c52af86855964958dd2'}
+  - {seq: 5, role: markers, filename: assets/KR6v0542_005-GA.markers.yaml, hash: 'sha256:5b943be2bc7745c046a14450a27148ab56abd0ae7358f1db7ac5b66272113d1b'}
+  - {seq: 6, role: markers, filename: assets/KR6v0542_006-GA.markers.yaml, hash: 'sha256:b97e71de71b1b69c5cc99ed5adc3e6528322b5f8f3674f477ff0f0db29b122d3'}
+  - {seq: 7, role: markers, filename: assets/KR6v0542_007-GA.markers.yaml, hash: 'sha256:2549088562f3bb8cde205c4062b279b9221eab6e9c16a535905ad763585596db'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 3282
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 卷首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-3
+    span:
+    - body
+    - 527
+    - 527
+  label: 編者自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-4
+    span:
+    - body
+    - 820
+    - 820
+  label: 編輯大意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-5
+    span:
+    - body
+    - 1122
+    - 1122
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-6
+    span:
+    - body
+    - 1176
+    - 1176
+  label: 全圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-7
+    span:
+    - body
+    - 1370
+    - 1370
+  label: 山圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-8
+    span:
+    - body
+    - 1372
+    - 1372
+  label: 本寺全景
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-9
+    span:
+    - body
+    - 1376
+    - 1376
+  label: 本寺山門外放生池之一瞥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-10
+    span:
+    - body
+    - 1387
+    - 1387
+  label: 本寺大山門之中門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-11
+    span:
+    - body
+    - 1395
+    - 1395
+  label: 本寺鼓樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-12
+    span:
+    - body
+    - 1399
+    - 1399
+  label: 本寺鐘樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-13
+    span:
+    - body
+    - 1403
+    - 1403
+  label: 本寺大雄寶殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-14
+    span:
+    - body
+    - 1409
+    - 1409
+  label: 本寺佛殿之內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-15
+    span:
+    - body
+    - 1416
+    - 1416
+  label: 本寺走廊之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-16
+    span:
+    - body
+    - 1422
+    - 1422
+  label: 本寺最近落成之大悲殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-17
+    span:
+    - body
+    - 1456
+    - 1456
+  label: 本寺官廳之一角——右邊即庫房——
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-18
+    span:
+    - body
+    - 1468
+    - 1468
+  label: 本寺功德樓及禪堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-19
+    span:
+    - body
+    - 1476
+    - 1476
+  label: 本寺之小講堂外觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-20
+    span:
+    - body
+    - 1484
+    - 1484
+  label: 本寺之千手千眼大悲觀世音菩薩像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-21
+    span:
+    - body
+    - 1499
+    - 1499
+  label: 本寺方丈室之外觀——即海印樓——
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-22
+    span:
+    - body
+    - 1511
+    - 1511
+  label: 本寺後山之小亭——亭三座今攝壹——
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-23
+    span:
+    - body
+    - 1524
+    - 1524
+  label: 寺考
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-24
+    span:
+    - body
+    - 1526
+    - 1526
+  label: 一、本寺寺考
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-25
+    span:
+    - body
+    - 2268
+    - 2268
+  label: 二、本寺建築物沿革
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-26
+    span:
+    - body
+    - 2278
+    - 2278
+  label: 一　佛殿及走廊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-27
+    span:
+    - body
+    - 2284
+    - 2284
+  label: 天王殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-28
+    span:
+    - body
+    - 2341
+    - 2341
+  label: 大佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-29
+    span:
+    - body
+    - 2432
+    - 2432
+  label: 大悲殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-30
+    span:
+    - body
+    - 2522
+    - 2522
+  label: 後殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-31
+    span:
+    - body
+    - 2560
+    - 2560
+  label: 鐘鼓樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-32
+    span:
+    - body
+    - 2584
+    - 2584
+  label: 走廊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-33
+    span:
+    - body
+    - 2619
+    - 2619
+  label: 二　僧寮與客廳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-34
+    span:
+    - body
+    - 2625
+    - 2625
+  label: 流通處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-35
+    span:
+    - body
+    - 2690
+    - 2690
+  label: 念佛堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-36
+    span:
+    - body
+    - 2734
+    - 2734
+  label: 祖堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-37
+    span:
+    - body
+    - 2821
+    - 2821
+  label: 客廳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-38
+    span:
+    - body
+    - 2860
+    - 2860
+  label: 庫房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-39
+    span:
+    - body
+    - 2916
+    - 2916
+  label: 五觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-40
+    span:
+    - body
+    - 3008
+    - 3008
+  label: 三　佛學院一瞥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-41
+    span:
+    - body
+    - 3157
+    - 3157
+  label: 四　後山之禪室
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-42
+    span:
+    - body
+    - 3163
+    - 3163
+  label: 普照寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-43
+    span:
+    - body
+    - 3205
+    - 3205
+  label: 蓮花洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0542_GA_001-mulu-44
+    span:
+    - body
+    - 3235
+    - 3235
+  label: 水池區
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-juan-start
+    span:
+    - body
+    - 0
+    - 5141
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 法制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 一、本寺改為十方常住規約二十條
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-3
+    span:
+    - body
+    - 1585
+    - 1585
+  label: 庫房列職規銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-4
+    span:
+    - body
+    - 2681
+    - 2681
+  label: 客堂規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-5
+    span:
+    - body
+    - 3519
+    - 3519
+  label: 禪堂規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-6
+    span:
+    - body
+    - 4025
+    - 4025
+  label: 共住規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0542_GA_002-mulu-7
+    span:
+    - body
+    - 4680
+    - 4680
+  label: 二、本寺水池區管理規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-juan-start
+    span:
+    - body
+    - 0
+    - 8899
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 教育
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 閩南佛學院概况重編
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-3
+    span:
+    - body
+    - 13
+    - 13
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-4
+    span:
+    - body
+    - 121
+    - 121
+  label: 一　本院略史
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-5
+    span:
+    - body
+    - 1598
+    - 1598
+  label: 二　組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-6
+    span:
+    - body
+    - 1601
+    - 1601
+  label: 1、組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-7
+    span:
+    - body
+    - 1809
+    - 1809
+  label: 2、經濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-8
+    span:
+    - body
+    - 1922
+    - 1922
+  label: 3、院址
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-9
+    span:
+    - body
+    - 2060
+    - 2060
+  label: 三　訓育
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-10
+    span:
+    - body
+    - 2386
+    - 2386
+  label: 四　章程
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-11
+    span:
+    - body
+    - 2401
+    - 2401
+  label: 第一章　總綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-12
+    span:
+    - body
+    - 2597
+    - 2597
+  label: 第二章　入學
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-13
+    span:
+    - body
+    - 2860
+    - 2860
+  label: 第三章　課程
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-14
+    span:
+    - body
+    - 3357
+    - 3357
+  label: 第四章　學期．休假
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-15
+    span:
+    - body
+    - 3450
+    - 3450
+  label: 第五章　考試
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-16
+    span:
+    - body
+    - 3565
+    - 3565
+  label: 第六章　退學
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-17
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 第七章　附則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-18
+    span:
+    - body
+    - 3697
+    - 3697
+  label: 五　規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-19
+    span:
+    - body
+    - 3700
+    - 3700
+  label: 1、共住規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-20
+    span:
+    - body
+    - 4427
+    - 4427
+  label: 2、禮堂規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-21
+    span:
+    - body
+    - 4513
+    - 4513
+  label: 3、講堂規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-22
+    span:
+    - body
+    - 4818
+    - 4818
+  label: 4、自修室規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-23
+    span:
+    - body
+    - 4903
+    - 4903
+  label: 5、寢室規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-24
+    span:
+    - body
+    - 4979
+    - 4979
+  label: 6、齋堂規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-25
+    span:
+    - body
+    - 5100
+    - 5100
+  label: 7、圖書舘規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-26
+    span:
+    - body
+    - 5285
+    - 5285
+  label: 8、門禁規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-27
+    span:
+    - body
+    - 5377
+    - 5377
+  label: 9、會客規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-28
+    span:
+    - body
+    - 5459
+    - 5459
+  label: 10、告假規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-29
+    span:
+    - body
+    - 5585
+    - 5585
+  label: 11、勸懲規則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-30
+    span:
+    - body
+    - 5589
+    - 5589
+  label: （1）記功
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-31
+    span:
+    - body
+    - 5660
+    - 5660
+  label: （2）記過
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-32
+    span:
+    - body
+    - 6096
+    - 6096
+  label: （3）功過之賞罰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-33
+    span:
+    - body
+    - 6296
+    - 6296
+  label: （4）出院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-34
+    span:
+    - body
+    - 6510
+    - 6510
+  label: 12、禮儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-35
+    span:
+    - body
+    - 6667
+    - 6667
+  label: 六　教職員表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-36
+    span:
+    - body
+    - 6672
+    - 6672
+  label: 1、本院第一任教職員一覽表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-37
+    span:
+    - body
+    - 6998
+    - 6998
+  label: 2、本院第二任教職員一覽表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-38
+    span:
+    - body
+    - 7708
+    - 7708
+  label: 3、本院第三任教職員一覽表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-39
+    span:
+    - body
+    - 8246
+    - 8246
+  label: 彌勒七儀（每日上午下午及初夜共三次）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-40
+    span:
+    - body
+    - 8262
+    - 8262
+  label: 甲、入壇三拜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-41
+    span:
+    - body
+    - 8302
+    - 8302
+  label: 乙、誦經念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-42
+    span:
+    - body
+    - 8433
+    - 8433
+  label: 丙、囘向
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-43
+    span:
+    - body
+    - 8617
+    - 8617
+  label: 閩南佛學院藏書數目
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-44
+    span:
+    - body
+    - 8833
+    - 8833
+  label: 閩南佛學院照片
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-45
+    span:
+    - body
+    - 8833
+    - 8833
+  label: 本寺佛學院之大講堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-46
+    span:
+    - body
+    - 8842
+    - 8842
+  label: 本寺佛學院之小講堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-47
+    span:
+    - body
+    - 8851
+    - 8851
+  label: 本寺佛學院學舍之西廊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-48
+    span:
+    - body
+    - 8861
+    - 8861
+  label: 本寺佛學院學舍之東廊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-49
+    span:
+    - body
+    - 8871
+    - 8871
+  label: 本寺佛學院圖書館佛學組之一部
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0542_GA_003-mulu-50
+    span:
+    - body
+    - 8885
+    - 8885
+  label: 本寺佛學院圖書館世學組之一部
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-juan-start
+    span:
+    - body
+    - 0
+    - 11829
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 列傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 小引
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-3
+    span:
+    - body
+    - 135
+    - 135
+  label: 一　德僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-4
+    span:
+    - body
+    - 189
+    - 189
+  label: 喜參和尚略傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-5
+    span:
+    - body
+    - 1204
+    - 1204
+  label: 轉逢和尚事略自述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-6
+    span:
+    - body
+    - 1215
+    - 1215
+  label: 一　略敍出家因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-7
+    span:
+    - body
+    - 1611
+    - 1611
+  label: 二　具足戒後參方
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-8
+    span:
+    - body
+    - 2190
+    - 2190
+  label: 三　接住南普陀寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-9
+    span:
+    - body
+    - 2649
+    - 2649
+  label: 四　余今後之願行
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-10
+    span:
+    - body
+    - 2940
+    - 2940
+  label: 會泉和尚傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-11
+    span:
+    - body
+    - 4845
+    - 4845
+  label: 太虛法師略傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-12
+    span:
+    - body
+    - 6406
+    - 6406
+  label: 二　職僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-13
+    span:
+    - body
+    - 6409
+    - 6409
+  label: 轉道上人傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-14
+    span:
+    - body
+    - 7264
+    - 7264
+  label: 轉塵上人傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-15
+    span:
+    - body
+    - 7436
+    - 7436
+  label: 覺三法師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-16
+    span:
+    - body
+    - 8041
+    - 8041
+  label: 性願法師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-17
+    span:
+    - body
+    - 8207
+    - 8207
+  label: 瑞等禪師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-18
+    span:
+    - body
+    - 8411
+    - 8411
+  label: 芝峰法師略傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-19
+    span:
+    - body
+    - 9074
+    - 9074
+  label: 大醒法師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-20
+    span:
+    - body
+    - 10595
+    - 10595
+  label: 覺斌法師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-21
+    span:
+    - body
+    - 10933
+    - 10933
+  label: 宏聰禪師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-22
+    span:
+    - body
+    - 11134
+    - 11134
+  label: 智普禪師小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-23
+    span:
+    - body
+    - 11346
+    - 11346
+  label: 三　居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-24
+    span:
+    - body
+    - 11349
+    - 11349
+  label: 蔡契誠居士小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-25
+    span:
+    - body
+    - 11521
+    - 11521
+  label: 蘇慧純居士小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0542_GA_004-mulu-26
+    span:
+    - body
+    - 11695
+    - 11695
+  label: 林鏡秋居士小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0542_GA_005-juan-start
+    span:
+    - body
+    - 0
+    - 1160
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0542_GA_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 法物
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0542_GA_005-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 一　法器
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0542_GA_005-mulu-3
+    span:
+    - body
+    - 425
+    - 425
+  label: 二　書畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0542_GA_005-mulu-4
+    span:
+    - body
+    - 529
+    - 529
+  label: 三　石刻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-juan-start
+    span:
+    - body
+    - 0
+    - 8565
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文藝
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 一　詩林
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-3
+    span:
+    - body
+    - 5
+    - 5
+  label: 嘉慶己卯仲夏司榷鷺江偶占扇亭四絕
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-4
+    span:
+    - body
+    - 104
+    - 104
+  label: 南普陀雜詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-5
+    span:
+    - body
+    - 254
+    - 254
+  label: 普照寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-6
+    span:
+    - body
+    - 301
+    - 301
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-7
+    span:
+    - body
+    - 345
+    - 345
+  label: 太虛臺晚眺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-8
+    span:
+    - body
+    - 420
+    - 420
+  label: 兜率陀院題壁
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-9
+    span:
+    - body
+    - 547
+    - 547
+  label: 太虛臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-10
+    span:
+    - body
+    - 625
+    - 625
+  label: 五老山
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-11
+    span:
+    - body
+    - 659
+    - 659
+  label: 遊南普陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-12
+    span:
+    - body
+    - 694
+    - 694
+  label: 恭和佟法海題南普陀石壁
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-13
+    span:
+    - body
+    - 736
+    - 736
+  label: 偕諸子訪大醒法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-14
+    span:
+    - body
+    - 823
+    - 823
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-15
+    span:
+    - body
+    - 868
+    - 868
+  label: 中元節遊南普陀寺夜半留別大醒達安二吟長
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-16
+    span:
+    - body
+    - 917
+    - 917
+  label: 五老山
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-17
+    span:
+    - body
+    - 980
+    - 980
+  label: 大暑後五日諸人同集南普陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-18
+    span:
+    - body
+    - 1087
+    - 1087
+  label: 同治四年三月統率六師航海援閩，駐軍南普陀，武進餘曙，題此以誌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-19
+    span:
+    - body
+    - 1173
+    - 1173
+  label: 普陀寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-20
+    span:
+    - body
+    - 1235
+    - 1235
+  label: 遊南普陀寺贈太虛上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-21
+    span:
+    - body
+    - 1305
+    - 1305
+  label: 和答前韶
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-22
+    span:
+    - body
+    - 1367
+    - 1367
+  label: 南普陀題名
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-23
+    span:
+    - body
+    - 1430
+    - 1430
+  label: 南普陀題壁即次太虛大師原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-24
+    span:
+    - body
+    - 1502
+    - 1502
+  label: 南普陀題壁次太虛大師原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-25
+    span:
+    - body
+    - 1572
+    - 1572
+  label: 太虛大師南普陀題石敬和原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-26
+    span:
+    - body
+    - 1643
+    - 1643
+  label: 題廈門南普陀寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-27
+    span:
+    - body
+    - 1708
+    - 1708
+  label: 壬甲三月漳州失守率隊來厦，八月遊南普陀寺，次太虛大師題壁原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-28
+    span:
+    - body
+    - 1795
+    - 1795
+  label: 二　序記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-29
+    span:
+    - body
+    - 1798
+    - 1798
+  label: 閩南佛學院緣起文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-30
+    span:
+    - body
+    - 2336
+    - 2336
+  label: 廈門南普陀重建觀音殿募捐緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-31
+    span:
+    - body
+    - 2971
+    - 2971
+  label: 南普陀兜率院記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-32
+    span:
+    - body
+    - 3488
+    - 3488
+  label: 本寺後山太虛台之外景
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-33
+    span:
+    - body
+    - 3528
+    - 3528
+  label: 本寺後山水區之兜率陀院外景
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-34
+    span:
+    - body
+    - 3541
+    - 3541
+  label: 本寺之阿耨達水池
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-35
+    span:
+    - body
+    - 3563
+    - 3563
+  label: 太虛台上之鳥瞰
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-36
+    span:
+    - body
+    - 3590
+    - 3590
+  label: 本寺後山之小亭二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-37
+    span:
+    - body
+    - 3598
+    - 3598
+  label: 太虛大師之石刻
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-38
+    span:
+    - body
+    - 3605
+    - 3605
+  label: 南普陀寺重建大悲殿記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-39
+    span:
+    - body
+    - 3951
+    - 3951
+  label: 南普陀寺林園記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-40
+    span:
+    - body
+    - 4350
+    - 4350
+  label: 南普院寺水池區建築記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-41
+    span:
+    - body
+    - 4561
+    - 4561
+  label: 南普陀遊記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-42
+    span:
+    - body
+    - 7112
+    - 7112
+  label: 普照寺根源記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0542_GA_006-mulu-43
+    span:
+    - body
+    - 7473
+    - 7473
+  label: 三　楹聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-juan-start
+    span:
+    - body
+    - 0
+    - 3109
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 公牘
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 一　佈告
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-3
+    span:
+    - body
+    - 5
+    - 5
+  label: 福建陸軍第二師第三旅司令部布告第　號
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-4
+    span:
+    - body
+    - 357
+    - 357
+  label: 閩軍總司令部布告第五十八號
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-5
+    span:
+    - body
+    - 795
+    - 795
+  label: 思明縣公署　通告
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-6
+    span:
+    - body
+    - 1229
+    - 1229
+  label: 廈門市公安局布告第四三號
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-7
+    span:
+    - body
+    - 1533
+    - 1533
+  label: 駐閩綏靖主任公署布告第　號
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-8
+    span:
+    - body
+    - 1652
+    - 1652
+  label: 公安局布告第四二號
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-9
+    span:
+    - body
+    - 1801
+    - 1801
+  label: 二　函電
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-10
+    span:
+    - body
+    - 1804
+    - 1804
+  label: 本寺寺基確定之經過
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-11
+    span:
+    - body
+    - 2096
+    - 2096
+  label: 一、路政處証明書
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-12
+    span:
+    - body
+    - 2330
+    - 2330
+  label: 二、法院不動產登記證明書
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-13
+    span:
+    - body
+    - 2596
+    - 2596
+  label: 三、附本寺聲請書
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-14
+    span:
+    - body
+    - 2804
+    - 2804
+  label: 蔣光鼐將軍來電
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-15
+    span:
+    - body
+    - 2869
+    - 2869
+  label: 賀班禪頞爾德尼就職電
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-16
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 班禪頞爾德尼覆電
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0542_GA_007-mulu-17
+    span:
+    - body
+    - 3004
+    - 3004
+  label: 蔣光鼐將軍來書
+  type: mulu
+  level: 1
+hash: sha256:a43872c19858a22167abd9bd20e5ddcf3c3452bfbad22cae084ef85b6823db4e
